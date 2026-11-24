@@ -1,0 +1,49 @@
+{
+  "coffee": [
+    {"name": "furfuryl mercaptan", "smiles": "SCc1ccco1", "weight": 1.0},
+    {"name": "2-methylpyrazine", "smiles": "Cc1cnccn1", "weight": 1.5},
+    {"name": "guaiacol", "smiles": "COc1ccccc1O", "weight": 1.0},
+    {"name": "furfural", "smiles": "O=Cc1ccco1", "weight": 1.5},
+    {"name": "2,3-pentanedione", "smiles": "CCC(=O)C(C)=O", "weight": 1.0},
+    {"name": "maltol", "smiles": "Cc1occc(=O)c1O", "weight": 1.0},
+    {"name": "4-ethylguaiacol", "smiles": "CCc1ccc(O)c(OC)c1", "weight": 0.8}
+  ],
+  "vanilla candle": [
+    {"name": "vanillin", "smiles": "COc1cc(C=O)ccc1O", "weight": 2.0},
+    {"name": "ethyl vanillin", "smiles": "CCOc1cc(C=O)ccc1O", "weight": 1.0},
+    {"name": "coumarin", "smiles": "O=c1ccc2ccccc2o1", "weight": 1.0},
+    {"name": "heliotropin", "smiles": "O=Cc1ccc2OCOc2c1", "weight": 1.0},
+    {"name": "benzyl benzoate", "smiles": "O=C(OCc1ccccc1)c1ccccc1", "weight": 1.5}
+  ],
+  "mint": [
+    {"name": "menthol", "smiles": "CC(C)C1CCC(C)CC1O", "weight": 2.5},
+    {"name": "menthone", "smiles": "CC(C)C1CCC(C)CC1=O", "weight": 1.5},
+    {"name": "carvone", "smiles": "CC1=CCC(CC1=O)C(C)=C", "weight": 1.0},
+    {"name": "1,8-cineole", "smiles": "CC1(C)OC2CCC1(C)CC2", "weight": 1.0},
+    {"name": "limonene", "smiles": "CC(=C)C1CCC(C)=CC1", "weight": 0.5}
+  ],
+  "lemon": [
+    {"name": "limonene", "smiles": "CC(=C)C1CCC(C)=CC1", "weight": 3.0},
+    {"name": "citral", "smiles": "CC(C)=CCCC(C)=CC=O", "weight": 1.5},
+    {"name": "linalool", "smiles": "CC(C)=CCCC(C)(O)C=C", "weight": 0.7},
+    {"name": "beta-pinene", "smiles": "CC1(C)C2CCC(=C)C1C2", "weight": 1.0},
+    {"name": "gamma-terpinene", "smiles": "CC(C)C1=CCC(C)=CC1", "weight": 1.0},
+    {"name": "geranyl acetate", "smiles": "CC(C)=CCCC(C)=CCOC(C)=O", "weight": 0.5}
+  ],
+  "banana": [
+    {"name": "isoamyl acetate", "smiles": "CC(C)CCOC(C)=O", "weight": 3.0},
+    {"name": "isoamyl butyrate", "smiles": "CCCC(=O)OCCC(C)C", "weight": 1.0},
+    {"name": "ethyl butyrate", "smiles": "CCCC(=O)OCC", "weight": 1.0},
+    {"name": "butyl acetate", "smiles": "CCCCOC(C)=O", "weight": 1.0},
+    {"name": "eugenol", "smiles": "C=CCc1ccc(O)c(OC)c1", "weight": 0.3}
+  ],
+  "wood smoke": [
+    {"name": "guaiacol", "smiles": "COc1ccccc1O", "weight": 2.0},
+    {"name": "syringol", "smiles": "COc1cccc(OC)c1O", "weight": 1.5},
+    {"name": "4-methylguaiacol", "smiles": "Cc1ccc(O)c(OC)c1", "weight": 1.0},
+    {"name": "o-cresol", "smiles": "Cc1ccccc1O", "weight": 1.0},
+    {"name": "4-ethylphenol", "smiles": "CCc1ccc(O)cc1", "weight": 1.0},
+    {"name": "phenol", "smiles": "Oc1ccccc1", "weight": 0.8},
+    {"name": "furfural", "smiles": "O=Cc1ccco1", "weight": 0.8}
+  ]
+}
